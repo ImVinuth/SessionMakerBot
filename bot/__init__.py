@@ -82,11 +82,10 @@ AVAILABLE_CODE_RECVING_OPTIONS = {
 START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
-        "Hi. ☺️\n"
-        "Thank you for using me 😬\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHIDe/SessionMakerBot\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "Hi.\n"
+        "Thank you for using me\n\n"
+        "I'M A Powerful bot that gives you Userbot or Bot String in Pyrogram."
+        "Subscribe @Vinuth_BOTs if you using this bot"
     )
 )
 INPUT_PHONE_NUMBER = get_config("INPUT_PHONE_NUMBER", (
@@ -140,7 +139,4 @@ ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
 ))
 SESSION_GENERATED_USING = get_config("SESSION_GENERATED_USING", (
     "Thank you for using me 😬\n\n"
-    "This is an Open Source Project available on "
-    "https://github.com/SpEcHIDe/SessionMakerBot\n\n\n"
-    "👆👆👆 String Session successfully generated 👆👆👆"
 ))
